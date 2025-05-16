@@ -7,7 +7,8 @@ func main() {
 
 	game := Game{
 		profit:    0,
-		pollution: 0}
+		pollution: 0,
+	}
 
 	fmt.Printf("Game: %d", game.profit)
 }
