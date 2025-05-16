@@ -10,7 +10,7 @@ func main() {
 		pollution: 0,
 	}
 
-	fmt.Printf("Game: %d", game.profit)
+	fmt.Printf("Game: %d\n", game.profit)
 }
 
 type Game struct {
